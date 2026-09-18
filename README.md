@@ -55,3 +55,9 @@ Crestron and the Crestron logo are either trademarks or registered trademarks of
 This project does not contain, incorporate or distribute any proprietary Crestron source code, firmware, or other Crestron intellectual property. Any references to Crestron products, protocols, interfaces, or trademarks are made solely for purposes of identification, interoperability, compatibility, research, and discussion.
 
 No ownership of, or rights to, any Crestron trademark or other Crestron intellectual property are claimed or implied.
+
+## License
+
+MC3 Unbound is released under the [MIT License](LICENSE).
+
+Portions derived from U-Boot or other third-party projects remain subject to their respective licenses and copyright notices.
